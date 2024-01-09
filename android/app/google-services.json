@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609886338719",
+    "project_id": "produit-cosmetique",
+    "storage_bucket": "produit-cosmetique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609886338719:android:47ae67d839f9fa3775ecaa",
+        "android_client_info": {
+          "package_name": "com.example.projet_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA8kqeT_ZbIy93pb2bJiligMSXBmvUa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
